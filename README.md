@@ -6,4 +6,5 @@ Our code refers to the following repositories.
 - [LSKA](https://github.com/StevenLauHKHK/Large-Separable-Kernel-Attention)
 
 We thank the authors for releasing their codes.
+
 This is the official repository for our paper, and we will open-source the code once the paper is accepted.
