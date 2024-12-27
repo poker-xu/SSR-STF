@@ -4,7 +4,6 @@ Our code refers to the following repositories.
 - [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer)
 - [STCFormer](https://github.com/zhenhuat/STCFormer)
 - [LSKA](https://github.com/StevenLauHKHK/Large-Separable-Kernel-Attention)
-
-We thank the authors for releasing their codes.
-
+- [P-STMO](https://github.com/paTRICK-swk/P-STMO/tree/main) \
+We thank the authors for releasing their codes.\
 This is the official repository for our paper, and we will open-source the code once the paper is accepted.
